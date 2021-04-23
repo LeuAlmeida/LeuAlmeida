@@ -5,7 +5,6 @@
 Here are some informations about me:
 
 - 🔭 I’m currently working at [Hospital Israelita Albert Einstein](https://einstein.br)
-- 👨‍🎓 Advertising and Marketing Student at [UMESP](https://metodista.br)
+- 🎓 Bachelor of Publicity and Advertising at [UMESP](https://metodista.br)
+- 👨‍🎓 Postgraduate student in Information Technology Management at [UAM](https://portal.anhembi.br/)
 - 📫 How to reach me: [Send me a email](mailto:leo@webid.net.br)
-
-<!-- ![Data about me](https://github-readme-stats.vercel.app/api?username=OfficialMarinho&show_icons=true&hide_border=true) -->
