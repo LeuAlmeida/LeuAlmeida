@@ -8,7 +8,7 @@
 
 Here are some informations about me:
 
-- 🔭 I’m currently working at [Hospital Israelita Albert Einstein](https://einstein.br)
+- 🔭 I’m currently working at [Hospital Israelita Albert Einstein](https://einstein.br) as Senior Tech Lead
 - 🎓 Bachelor of Publicity and Advertising at [UMESP](https://metodista.br)
 - 👨‍🎓 Postgraduate student in Information Technology Management at [UAM](https://portal.anhembi.br/)
 - 📫 How to reach me: [Send me a email](mailto:leo@webid.net.br)
