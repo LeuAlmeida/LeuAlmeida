@@ -17,7 +17,7 @@ Sou um desenvolvedor fullstack com +8 anos de experiência, focado em entregar s
 - 💼 Tech Lead | Arquiteto de Soluções | Educador
 - 🧪 APIs, microsserviços, mensageria, CI/CD, arquitetura limpa
 - 📍 Atibaia/SP | 🇧🇷 Atuação nacional
-- ☕ Amante de café, trilhas e mitologias antigas
+- ☕ Amante de café, tecnologia e estudos
 
 ---
 
