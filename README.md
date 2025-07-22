@@ -65,11 +65,3 @@ Sou um desenvolvedor fullstack com +8 anos de experiência, focado em entregar s
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leualmeida/leualmeida/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leualmeida/leualmeida/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leualmeida/leualmeida/output/pacman-contribution-graph.svg">
-</picture>
-
-###
